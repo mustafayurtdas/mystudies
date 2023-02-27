@@ -1,4 +1,4 @@
-package practice.bymyself;
+package practice;
 
 import java.util.Scanner;
 

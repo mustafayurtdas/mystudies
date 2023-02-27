@@ -4,27 +4,138 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed7f1175-02d8-42e3-9f96-be77b19794e2" name="Changes" comment="" />
+    <list default="true" id="ed7f1175-02d8-42e3-9f96-be77b19794e2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UglyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice2/BirSayiylaCarpma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice2/ElmasSekli.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice2/EnKucuk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice2/RakamlarToplami.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice2/SayiYazdirma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice2/SayılarlaUcgen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice2/SesliHarf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice3/MiniProject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice3/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Armstrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Armstrong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AsalSayi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/AsalSayi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CarpimTaplosu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/CarpimTaplosu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Deneme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Deneme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FirstAndLastLetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/FirstAndLastLetter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/KacKere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/KacKere.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/KarakterSayisi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/KarakterSayisi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OnBesYuzArasi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/OnBesYuzArasi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PerfectNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/PerfectNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TasMakas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/TasMakas.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2JpQTgfc7JMDnN0pY1g0OCZ29LZ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/QA FULL STACK AUTOMATION/JAVA/mystudies&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.UglyNumber">
+    <configuration name="ElmasSekli" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice2.ElmasSekli" />
+      <module name="mystudies" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnKucuk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice2.EnKucuk" />
+      <module name="mystudies" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MiniProject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice3.MiniProject" />
+      <module name="mystudies" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice2.Q24" />
+      <module name="mystudies" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UglyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UglyNumber" />
+      <module name="mystudies" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UglyNumber" />
+        <item itemvalue="Application.MiniProject" />
+        <item itemvalue="Application.EnKucuk" />
+        <item itemvalue="Application.Q24" />
+        <item itemvalue="Application.ElmasSekli" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,5 +146,16 @@
       <updated>1672772560874</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
