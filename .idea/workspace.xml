@@ -5,32 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed7f1175-02d8-42e3-9f96-be77b19794e2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UglyNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice2/BirSayiylaCarpma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice2/ElmasSekli.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice2/EnKucuk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice2/RakamlarToplami.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice2/SayiYazdirma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice2/SayılarlaUcgen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice2/SesliHarf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice3/MiniProject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice3/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Armstrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Armstrong.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AsalSayi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/AsalSayi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CarpimTaplosu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/CarpimTaplosu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Deneme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Deneme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FirstAndLastLetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/FirstAndLastLetter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/KacKere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/KacKere.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/KarakterSayisi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/KarakterSayisi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OnBesYuzArasi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/OnBesYuzArasi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/Palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PerfectNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/PerfectNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TasMakas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/TasMakas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
